@@ -1,0 +1,3 @@
+{"time": "2026-05-14 23:14:58.928302+01:00", "level": "DEBUG", "message": "Using proactor: IocpProactor", "module": "logging", "function": "callHandlers", "line": 1737}
+{"time": "2026-05-14 23:14:59.025285+01:00", "level": "INFO", "message": "Starting Claude Code Proxy...", "module": "api.runtime", "function": "startup", "line": 104}
+{"time": "2026-05-14 23:14:59.100146+01:00", "level": "INFO", "message": "GlobalRateLimiter (Provider) initialized (1 req / 3.0s, max_concurrency=5)", "module": "providers.rate_limit", "function": "__init__", "line": 90}
